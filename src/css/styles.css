@@ -96,3 +96,12 @@ header {
         color: #020024;
     }
 }
+
+
+.show{
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
